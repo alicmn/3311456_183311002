@@ -1,0 +1,8 @@
+abstract class BaseDatabase{
+
+    void createInitialData();
+
+    void loadData();
+
+    void updateDatabase();
+}
